@@ -1,4 +1,4 @@
-# Food order App
+# Food Order App
 ### Technologies used
 1. React for the frontend
 2. Firebase for the backend
