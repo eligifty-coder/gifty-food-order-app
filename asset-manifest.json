@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-food-order-app/static/css/main.471b19cd.chunk.css",
-    "main.js": "/my-food-order-app/static/js/main.b3dd0eff.chunk.js",
-    "main.js.map": "/my-food-order-app/static/js/main.b3dd0eff.chunk.js.map",
-    "runtime-main.js": "/my-food-order-app/static/js/runtime-main.00afa720.js",
-    "runtime-main.js.map": "/my-food-order-app/static/js/runtime-main.00afa720.js.map",
-    "static/js/2.bcdd80ce.chunk.js": "/my-food-order-app/static/js/2.bcdd80ce.chunk.js",
-    "static/js/2.bcdd80ce.chunk.js.map": "/my-food-order-app/static/js/2.bcdd80ce.chunk.js.map",
-    "index.html": "/my-food-order-app/index.html",
-    "static/css/main.471b19cd.chunk.css.map": "/my-food-order-app/static/css/main.471b19cd.chunk.css.map",
-    "static/js/2.bcdd80ce.chunk.js.LICENSE.txt": "/my-food-order-app/static/js/2.bcdd80ce.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/my-food-order-app/static/media/meals.2971f633.jpg"
+    "main.css": "/gifty-food-order-app/static/css/main.471b19cd.chunk.css",
+    "main.js": "/gifty-food-order-app/static/js/main.b3dd0eff.chunk.js",
+    "main.js.map": "/gifty-food-order-app/static/js/main.b3dd0eff.chunk.js.map",
+    "runtime-main.js": "/gifty-food-order-app/static/js/runtime-main.b6a60abc.js",
+    "runtime-main.js.map": "/gifty-food-order-app/static/js/runtime-main.b6a60abc.js.map",
+    "static/js/2.bcdd80ce.chunk.js": "/gifty-food-order-app/static/js/2.bcdd80ce.chunk.js",
+    "static/js/2.bcdd80ce.chunk.js.map": "/gifty-food-order-app/static/js/2.bcdd80ce.chunk.js.map",
+    "index.html": "/gifty-food-order-app/index.html",
+    "static/css/main.471b19cd.chunk.css.map": "/gifty-food-order-app/static/css/main.471b19cd.chunk.css.map",
+    "static/js/2.bcdd80ce.chunk.js.LICENSE.txt": "/gifty-food-order-app/static/js/2.bcdd80ce.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/gifty-food-order-app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00afa720.js",
+    "static/js/runtime-main.b6a60abc.js",
     "static/js/2.bcdd80ce.chunk.js",
     "static/css/main.471b19cd.chunk.css",
     "static/js/main.b3dd0eff.chunk.js"
